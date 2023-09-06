@@ -8,8 +8,6 @@ import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai'
 function NavBar() {
 
     const [mobileView, setMobileView] = useState(false)
-
-
     const handleMenu = () => {
         setMobileView(!mobileView)
     }
