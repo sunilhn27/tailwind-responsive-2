@@ -32,8 +32,6 @@ function Services() {
           <div className='flex'>
             <Image src={Img2} className='md:w-[24rem] md:h-[33rem] w-[21rem] h-[15rem] mb-6 md:mb-0' />
           </div>
-
-
           <div className='flex flex-col md:w-[38rem] md:h-[13rem] px-4 space-y-2'>
             <h1 className='text-3xl md:text-5xl font-semibold'>Services Title text</h1>
             <p className='text-gray-500 md:w-[30rem] md:text-xl'>Figma ipsum component variant main layer. Flows subtract duplicate link font. Link strikethrough list pixel edit image.</p>
