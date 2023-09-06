@@ -4,9 +4,9 @@ import HeroImg from '@/asserts/images/Hero.png'
 
 function Hero() {
   return (
-    <section className='mt-10 md:mt-16'>
+    <section className='mt-10 md:mt-16 bg-[#FAFFFA]'>
       <div className='flex flex-col md:w-[67rem] md:h-[55rem]
-      2xl:w-[95rem] 2xl:h-[50rem]  mx-auto border-2 border-red-500'>
+      2xl:w-[95rem] 2xl:h-[50rem]  mx-auto '>
         <div className='mx-auto w-[20rem] md:w-[44rem]  '>
           <h1 className='text-5xl md:text-[7rem] font-semibold md:font-normal '>Human First. Design Later.</h1>
         </div>
