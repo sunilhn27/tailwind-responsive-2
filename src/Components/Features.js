@@ -17,7 +17,7 @@ function Features() {
   }
 
   return (
-    <section className='md:w-[75rem]  mx-auto mt-12 bg-[#FAFFFA]'>
+    <section className='md:w-[75rem]  mx-auto mt-12 2xl:mt-24 bg-[#FAFFFA]'>
       <div className='flex flex-col justify-center mb-2' >
         <h1 className='text-2xl md:text-4xl font-semibold text-center'>Feature Title text</h1>
       </div>

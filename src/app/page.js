@@ -1,7 +1,8 @@
+import Contact from '@/Components/Contact'
 import Features from '@/Components/Features'
 import Hero from '@/Components/Hero'
 import Services from '@/Components/Services'
-import Image from 'next/image'
+
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
       <Hero />
       <Features />
       <Services />
+      <Contact/>
     </main>
   )
 }
